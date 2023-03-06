@@ -69,7 +69,7 @@ seconds: [`seconds_to_days.py`](https://github.com/AmandaArenales/ComIT_Exercise
 
 ## Practice_2
 
-1. Create an algorithm to determine the largest of 3 numbers: [`seconds_to_days.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/seconds_to_days.py)
+1. Create an algorithm to determine the largest of 3 numbers: [`largest_of_three_numbers.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_2/largest_of_three_numbers.py)
 
 1. Create an algorithm to determine the largest of a series of numbers that are read from the keyboard. The user 
 ends by entering -1: [`seconds_to_days.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/seconds_to_days.py)
