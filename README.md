@@ -45,3 +45,24 @@ Take the quotation of the dollar today: [`canadian_us_dollar.py`](https://github
 ## P3_Python
 
 1. Write a program that allows you to enter the height of 10 students, then show the average height, and how many elements are above average, how many are below average: [`height.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/height.py)
+
+Practice_1
+
+1. Perform an algorithm to read a number and report if it is greater, equal or less than zero: [`height.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/height.py)
+
+1. Write an algorithm that determines if a number is even: [`height.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/height.py)
+
+1. Make an algorithm to read two real numbers and print the largest of them:: [`height.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/height.py)
+
+1. Given the radius of a circle, make an algorithm to calculate the value of the area: [`height.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/height.py)
+
+1. Write an algorithm that determines if an "N" number is divisible by another "M": : [`height.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/height.py)
+
+1. Write an algorithm to translate a time expressed in days, hours, minutes and seconds to time expressed in 
+seconds: [`height.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/height.py)
+
+1. We are being informed of three environmental temperature values, and we are asked to develop an algorithm to 
+calculate and report the sum and average of these values: [`height.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/height.py)
+
+1. translate a time expressed in seconds to a time expressed in days, hours, minutes and 
+seconds: [`height.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/height.py)
