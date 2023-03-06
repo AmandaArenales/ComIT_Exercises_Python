@@ -4,7 +4,7 @@ In this repository you will find several exercises solution in Python code.
 
 ## P1
 
-1. Python fundamentals: [`print_examples.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P1_Python/print_examples.py)
+1. Python fundamentals. It has 14 exercises: [`print_examples.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P1_Python/print_examples.py)
 
 1. Exercise: Write a program in Python that prints the squares of the first 30 natural numbers on the screen: [`square_30.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P1_Python/square_30.py)
 
