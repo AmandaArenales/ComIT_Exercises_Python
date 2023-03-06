@@ -54,6 +54,7 @@ n = 4
 while n < 10:
     n = n + 1
     print(n)
+    
 # Write a program in Python that prints the numbers from 5 to 15 on the screen.
 print("The numbers 5 to 15 on the screen are: ")
 n = 4
@@ -61,6 +62,7 @@ n = 4
 while n < 15:
     n = n + 1
     print(n)
+    
 # Write a program in Python that prints on the screen the numbers from 5 to 15,000.
 print("The numbers 5 to 15,000 on the screen are: ")
 n = 4
