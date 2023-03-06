@@ -85,7 +85,7 @@ the user enters the number zero: [`sum_numbers.py`](https://github.com/AmandaAre
 1. Write an algorithm to find the average of a series of numbers that are read from the keyboard: [`average_numbers.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_2/average_numbers.py)
 
 1. Given a series of real numbers that are being read from the keyboard, determine the maximum value and the 
-position of it: [`position_largest_number.py`][(https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_2/position_largest_number.py)
+position of it: [`position_largest_number.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_2/position_largest_number.py)
 
 1. Write an algorithm that requests the reading of a series of individual characters and count how many times the 
 letter "a" is entered. The user ends by entering the "$" symbol: [`seconds_to_days.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/seconds_to_days.py)
