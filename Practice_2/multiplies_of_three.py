@@ -1,5 +1,5 @@
-#Write an algorithm to print and count the multiples of 3 from 1 to 
-#a number that we enter by keyboard
+"""Write an algorithm to print and count the multiples of 3 from 1 to 
+a number that we enter by keyboard"""
 
 def count_mult_three():
 	n = int(input("Please, insert a number: "))
