@@ -1,5 +1,5 @@
-#Write an algorithm to translate a time expressed 
-#in days, hours, minutes and seconds to time expressed in seconds.
+"""Write an algorithm to translate a time expressed 
+in days, hours, minutes and seconds to time expressed in seconds."""
 
 def days_to_second(): 
 
