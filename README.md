@@ -50,19 +50,19 @@ Practice_1
 
 1. Perform an algorithm to read a number and report if it is greater, equal or less than zero: [`height.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/height.py)
 
-1. Write an algorithm that determines if a number is even: [`height.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/height.py)
+1. Write an algorithm that determines if a number is even: [`number_even.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/number_even.py)
 
-1. Make an algorithm to read two real numbers and print the largest of them:: [`height.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/height.py)
+1. Make an algorithm to read two real numbers and print the largest of them:: [`compare_two_numbers.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/compare_two_numbers.py)
 
-1. Given the radius of a circle, make an algorithm to calculate the value of the area: [`height.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/height.py)
+1. Given the radius of a circle, make an algorithm to calculate the value of the area: [`area_circle.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/area_circle.py)
 
-1. Write an algorithm that determines if an "N" number is divisible by another "M": : [`height.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/height.py)
+1. Write an algorithm that determines if an "N" number is divisible by another "M": : [`divisible_numbers.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/divisible_numbers.py)
 
 1. Write an algorithm to translate a time expressed in days, hours, minutes and seconds to time expressed in 
-seconds: [`height.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/height.py)
+seconds: [`days_to_seconds.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/days_to_seconds.py)
 
 1. We are being informed of three environmental temperature values, and we are asked to develop an algorithm to 
-calculate and report the sum and average of these values: [`height.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/height.py)
+calculate and report the sum and average of these values: [`temperature_sum_avg.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/temperature_sum_avg.py)
 
-1. translate a time expressed in seconds to a time expressed in days, hours, minutes and 
-seconds: [`height.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/height.py)
+1. Translate a time expressed in seconds to a time expressed in days, hours, minutes and 
+seconds: [`seconds_to_days.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/seconds_to_days.py)
