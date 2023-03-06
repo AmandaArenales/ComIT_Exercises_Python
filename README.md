@@ -75,7 +75,7 @@ seconds: [`seconds_to_days.py`](https://github.com/AmandaArenales/ComIT_Exercise
 ends by entering -1: [`largest_number.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_2/largest_number.py)
 
 1. Write an algorithm to determine the least of a series of numbers that are read from the keyboard. The user ends 
-by entering -1: [`seconds_to_days.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/seconds_to_days.py)
+by entering -1: [`least_number.p`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_2/least_number.py)
 
 1. Write an algorithm to print and count the multiples of 3 from 1 to a number that we enter by keyboard: [`multiplies_of_three.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_2/multiplies_of_three.py)
 
