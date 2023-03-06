@@ -88,7 +88,7 @@ the user enters the number zero: [`sum_numbers.py`](https://github.com/AmandaAre
 position of it: [`position_largest_number.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_2/position_largest_number.py)
 
 1. Write an algorithm that requests the reading of a series of individual characters and count how many times the 
-letter "a" is entered. The user ends by entering the "$" symbol: [`seconds_to_days.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/seconds_to_days.py)
+letter "a" is entered. The user ends by entering the "$" symbol: [`count_a.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_2/count_a.py)
 
 1. Develop an algorithm to count the number of students whose weight is between 50 and 60, between 61 and 80 
 and between 81 and 100. The weights are entered by keyboard and report the number of students in each 
