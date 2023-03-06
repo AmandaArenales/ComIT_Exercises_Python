@@ -92,7 +92,7 @@ letter "a" is entered. The user ends by entering the "$" symbol: [`count_a.py`](
 
 1. Develop an algorithm to count the number of students whose weight is between 50 and 60, between 61 and 80 
 and between 81 and 100. The weights are entered by keyboard and report the number of students in each 
-category of weight: [`seconds_to_days.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/seconds_to_days.py)
+category of weight: [`category_of_weight.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_2/category_of_weight.py)
 
 1. Write an algorithm to determine if a number read by keyboard is prime: [`seconds_to_days.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/seconds_to_days.py)
 
