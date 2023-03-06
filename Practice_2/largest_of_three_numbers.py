@@ -1,7 +1,7 @@
 """Create an algorithm to determine the largest of 3 numbers."""
 
 
-def largest_of_three_numbers():
+def largest_of_():
     number_1 = float(input("Please, insert the first number: "))
     number_2 = float(input("Please, insert the second number: "))
     number_3 = float(input("Please, insert the third number: "))
