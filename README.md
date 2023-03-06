@@ -46,9 +46,9 @@ Take the quotation of the dollar today: [`canadian_us_dollar.py`](https://github
 
 1. Write a program that allows you to enter the height of 10 students, then show the average height, and how many elements are above average, how many are below average: [`height.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/height.py)
 
-Practice_1
+## Practice_1
 
-1. Perform an algorithm to read a number and report if it is greater, equal or less than zero: [`height.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/height.py)
+1. Perform an algorithm to read a number and report if it is greater, equal or less than zero: [`compare_with_zero.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/compare_with_zero.py)
 
 1. Write an algorithm that determines if a number is even: [`number_even.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/number_even.py)
 
