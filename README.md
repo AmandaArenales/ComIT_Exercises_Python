@@ -36,11 +36,11 @@ Take the quotation of the dollar today: [`canadian_us_dollar.py`](https://github
 
 ## P2_Python
 
-1. Write an algorithm that calls another, and the call prints a value: [`two_functions.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P1_Python/two_functions.py)
+1. Write an algorithm that calls another, and the call prints a value: [`two_functions.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P2_Python/two_functions.py)
 
-1. Write an algorithm that calls another name "add", which receives 2 numbers. The summation algorithm must add its parameters. The algorithm you invoke must receive that value and display it on the screen: [`two_algorithm_sum.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P1_Python/two_algorithm_sum.py)
+1. Write an algorithm that calls another name "add", which receives 2 numbers. The summation algorithm must add its parameters. The algorithm you invoke must receive that value and display it on the screen: [`two_algorithm_sum.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P2_Python/two_algorithm_sum.py)
 
-1. Write an algorithm and a sub-algorithm. Write two variables with the same name and the compiler does not show error: [`equal_variables.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P1_Python/equal_variables.py)
+1. Write an algorithm and a sub-algorithm. Write two variables with the same name and the compiler does not show error: [`equal_variables.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P2_Python/equal_variables.py)
 
 ## P3_Python
 
