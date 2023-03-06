@@ -1,5 +1,5 @@
-# We are being informed of three environmental temperature values, and we are asked to develop an 
-# algorithm to  calculate and report the sum and average of these values.
+"""We are being informed of three environmental temperature values, and we are asked to develop an 
+algorithm to  calculate and report the sum and average of these values."""
 
 def temperature_sum_avg(): 
     t1 = int(input("Please, insert the first temperature: "))
