@@ -1,6 +1,5 @@
 #Make an algorithm to read two real numbers and print the largest of them.
 
-
 def compare_two_number():
 	x  = int(input("Please, insert the first number: "))
 	y  = int(input("Please, insert the second number: "))
