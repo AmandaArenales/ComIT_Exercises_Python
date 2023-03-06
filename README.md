@@ -2,7 +2,7 @@
 
 In this repository you will find several exercises solution in Python code. 
 
-## P1
+## P1_Python
 
 1. Python fundamentals. It has 14 exercises: [`print_examples.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P1_Python/print_examples.py)
 
@@ -32,14 +32,16 @@ Take the quotation of the dollar today: [`canadian_us_dollar.py`](https://github
 
 1. Make a program that asks for the salary of N workers (first you must ask how many workers there are) and print the one with the highest salary: [`highest_salary.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P1_Python/highest_salary.py)
 
+1. Write a program that asks for a numerical password and allows three attempts. If the user enters the correct password, it shows "Correct!" And run any program, after the message. Otherwise the program should display "Wrong password". Then finish the program immediately: [`password.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P1_Python/password.py)
+
+## P2_Python
+
 1. Write an algorithm that calls another, and the call prints a value: [`two_functions.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P1_Python/two_functions.py)
 
 1. Write an algorithm that calls another name "add", which receives 2 numbers. The summation algorithm must add its parameters. The algorithm you invoke must receive that value and display it on the screen: [`two_algorithm_sum.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P1_Python/two_algorithm_sum.py)
 
 1. Write an algorithm and a sub-algorithm. Write two variables with the same name and the compiler does not show error: [`equal_variables.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P1_Python/equal_variables.py)
 
-1. Write a program that asks for a numerical password and allows three attempts. If the user enters the correct password, it shows "Correct!" And run any program, after the message. Otherwise the program should display "Wrong password". Then finish the program immediately: [`password.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P1_Python/password.py)
-
-## P3 Python
+## P3_Python
 
 1. Write a program that allows you to enter the height of 10 students, then show the average height, and how many elements are above average, how many are below average: [`height.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/height.py)
