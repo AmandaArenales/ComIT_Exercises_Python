@@ -8,18 +8,17 @@ def days_month_year(month, year):
 
     if month in months_31d:
         days = 31
-        print(f'The {month} of {year} has {days} days.')
     elif month in months_30d: 
         days = 30
-        print(f'The {month} of {year} has {days} days.')
     elif ((year % 4) == 0) and (month == "February"):
         days = 29
-        print(f'The {month} of {year} has {days} days.')
     elif ((year % 4) != 0) and (month == "February"):
         days = 28
-        print(f'The {month} of {year} has {days} days.')
     else:
         print("Please, verify if you inserted correctly the month and the year.")
+        return
+    print(f'The {month} of {year} has {days} days.')
+    
     
 month = input("Please, insert a month: ")
 year = int(input("Please, insert a year: "))
