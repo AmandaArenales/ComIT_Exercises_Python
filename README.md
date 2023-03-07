@@ -98,5 +98,5 @@ category of weight: [`category_of_weight.py`](https://github.com/AmandaArenales/
 
 1. Write an algorithm to print and count numbers that are multiples of 2 or 3 that are between 1 and 100: [`count_multiples_two_three.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_2/count_multiples_two_three.py)
 
-1. Develop an algorithm to determine if a series of numbers that the user is entering is in increasing order or not: [`seconds_to_days.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/seconds_to_days.py)
+1. Develop an algorithm to determine if a series of numbers that the user is entering is in increasing order or not: [`increase_order.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_2/increase_order.py)
 
