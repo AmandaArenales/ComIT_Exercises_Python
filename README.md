@@ -104,5 +104,9 @@ category of weight: [`category_of_weight.py`](https://github.com/AmandaArenales/
 
 ## Practice 3
 
-1. Count the number of words, separated by one or more spaces, from a telegram ending in point. It can be assumed that the user enters character by character the telegram or the complete sequence, which is more comfortable to propose a solution:[`count_words.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_3/count_words.py)
+1. Count the number of words, separated by one or more spaces, from a telegram ending in point. It can be assumed that the user enters character by character the telegram or the complete sequence, which is more comfortable to propose a solution: [`count_words.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_3/count_words.py)
+
+1.	Develop an algorithm for a dice game. The player must bet on a number between 1 and 6 (keyboard reading), then you must simulate the roll of a dice and finally inform the player if he has won or lost: [`dice_game.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_3/dice_game.py)
+
+1. Write an algorithm to invert a string of characters: [`invert_a_string.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_3/invert_a_string.py)
 
