@@ -110,3 +110,10 @@ category of weight: [`category_of_weight.py`](https://github.com/AmandaArenales/
 
 1. Write an algorithm to invert a string of characters: [`invert_a_string.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_3/invert_a_string.py)
 
+1.	Write a sub-algorithm that has a parameter of type number that represents a year and determines whether the year is leap year or not: [`leap_year.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_3/leap_year.py)
+
+1. Write a sub-algorithm to determine the number of days of a month of a year, the latter two parameters of the sub-algorithm: [`month_year.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_3/month_year.py)
+
+1.	A meteorological station collects rain data for a month and year of a determined locality. An algorithm must be written asking the user to enter a month and a year, and allow for each day of that month in that year, enter the millimeters of water that were recorded (in case of not having registered a rain one day is entered 0) . The amount of total millimeters of water precipitated in that month must be shown, the maximum precipitation recorded for a day and on what day it was given, and finally if it rained two days in a row: [`rain_data.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_3/rain_data.py)
+
+
