@@ -100,3 +100,5 @@ category of weight: [`category_of_weight.py`](https://github.com/AmandaArenales/
 
 1. Develop an algorithm to determine if a series of numbers that the user is entering is in increasing order or not: [`increase_order.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_2/increase_order.py)
 
+1. Develop an algorithm to count the number of students whose weight is between 50 and 60, between 61 and 80 and between 81 and 100. The weights are entered by keyboard and report to accumulate weight totals in each category of weight: [`accumulative_weight.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_2/accumulative_weight.py)
+
