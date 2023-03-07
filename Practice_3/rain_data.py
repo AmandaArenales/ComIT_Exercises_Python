@@ -40,7 +40,6 @@ while d < days:
                      + f" on {d} of {month} of {year}: "))
     list_month_ml_water.append(ml_water_day)
     
-
 total_preciptation = sum(list_month_ml_water)
 print(f"\nThe amount of total millimeters of water precipitated in {month} of {year} was: {total_preciptation}.")
 
