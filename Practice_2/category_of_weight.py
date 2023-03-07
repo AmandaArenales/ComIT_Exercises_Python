@@ -12,9 +12,7 @@ def category_of_weight():
 
     while student < students:
         weight = int(input(f"Please, insert the weight of the student {count}:"))
-        count = count + 1
-        student = student + 1
-
+        
         if 50 <= weight <= 60:
             cat_50_60 = cat_50_60 + 1        
         elif 61 <= weight <= 80:
@@ -23,6 +21,10 @@ def category_of_weight():
             cat_81_100 = cat_81_100 + 1
         else:
             print("This weight is invalid!")
+            continue # stops the looping and goes to the next iteration
+        
+        count = count + 1
+        student = student + 1
 
     print(f"There are {cat_50_60} students whose weight is between 50 and 60.")
     print(f"There are {cat_61_80} students whose weight is between 61 and 80.")
