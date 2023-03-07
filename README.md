@@ -102,3 +102,7 @@ category of weight: [`category_of_weight.py`](https://github.com/AmandaArenales/
 
 1. Develop an algorithm to count the number of students whose weight is between 50 and 60, between 61 and 80 and between 81 and 100. The weights are entered by keyboard and report to accumulate weight totals in each category of weight: [`accumulative_weight.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_2/accumulative_weight.py)
 
+## Practice 3
+
+1. Count the number of words, separated by one or more spaces, from a telegram ending in point. It can be assumed that the user enters character by character the telegram or the complete sequence, which is more comfortable to propose a solution:[`count_words.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_3/count_words.py)
+
