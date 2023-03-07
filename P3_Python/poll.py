@@ -1,10 +1,10 @@
-"""(Poll.py) A survey was carried out to 15 students in a University where the following 
+"""A survey was carried out to 15 students in a University where the following 
 information was requested: Photo ID #, SEX, SALARY, JOB.
 
-• PHOTO ID # (It's an integer)
-• SEX (1 - Male 2 - Female)
-• JOB (1 - If you work 2 - Do not work)
-• SALARY (An integer value)
+• Photo ID # (It's an integer)
+• Sex (1 - Male 2 - Female)
+• Job (1 - If you work 2 - Do not work)
+• Salary (An integer value)
 
 Write the algorithm that allows reading and storing the requested data in vectors, then calculate and print:
 
