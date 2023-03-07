@@ -46,6 +46,8 @@ Take the quotation of the dollar today: [`canadian_us_dollar.py`](https://github
 
 1. Write a program that allows you to enter the height of 10 students, then show the average height, and how many elements are above average, how many are below average: [`height.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/height.py)
 
+1. A survey was carried out to 15 students in a University where the following information was requested: Photo ID #, Sex, Salary, Job: [`poll.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/poll.py)
+
 ## Practice_1
 
 1. Perform an algorithm to read a number and report if it is greater, equal or less than zero: [`compare_with_zero.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/compare_with_zero.py)
@@ -102,7 +104,7 @@ category of weight: [`category_of_weight.py`](https://github.com/AmandaArenales/
 
 1. Develop an algorithm to count the number of students whose weight is between 50 and 60, between 61 and 80 and between 81 and 100. The weights are entered by keyboard and report to accumulate weight totals in each category of weight: [`accumulative_weight.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_2/accumulative_weight.py)
 
-## Practice 3
+## Practice_3
 
 1. Count the number of words, separated by one or more spaces, from a telegram ending in point. It can be assumed that the user enters character by character the telegram or the complete sequence, which is more comfortable to propose a solution: [`count_words.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_3/count_words.py)
 
