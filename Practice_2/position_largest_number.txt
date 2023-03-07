@@ -1,0 +1,24 @@
+"""Given a series of real numbers that are being read from the keyboard, 
+determine the maximum value and the position of it."""
+
+algorithm largest_number():
+    var number: number, largest.
+    
+    number = 0
+    number  = read("Please, insert the first number: ")
+    largest = number
+
+    list_numbers = []
+    list_numbers.append(number)
+
+    while number != -1 do
+        new_number  = read("Please, insert a number or -1 if you don't want to enter other number: ")
+        
+        number = new_number
+        list_numbers.append(number)
+    
+    largest = max number in list_numbers
+    position = position of the largest number
+
+    print (f"The largest number in {list_numbers} is {largest} and the position of it is {position}.")
+end algorithm

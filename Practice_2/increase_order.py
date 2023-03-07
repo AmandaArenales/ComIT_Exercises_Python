@@ -16,8 +16,8 @@ def increase_order():
     list_sort.sort()
  
     if list_number == list_sort:
-        print(f"The series of numbers: {list_number} entered by the user is in increasing order")
+        print(f"The series of numbers: {list_number} entered by the user is in increasing order.")
     else:
-        print(f"The series of numbers: {list_number} entered by the user is not in increasing order")
+        print(f"The series of numbers: {list_number} entered by the user is not in increasing order.")
 
 increase_order()

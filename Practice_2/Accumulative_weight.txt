@@ -1,0 +1,36 @@
+"""Develop an algorithm to count the number of students whose weight is between 50 and 60, 
+between 61 and 80 and between 81 and 100. The weights are entered by keyboard and report  
+to accumulate weight totals in each category of weight."""
+
+algorithm accumulative_weight:
+    var number: student, students, count, weigth_50_60, weigth_61_80, weigth_81_100
+
+    students = int(input("How many students do you have? "))
+    student = 0
+    count = 1 
+  
+    weigth_50_60 = 0
+    weigth_61_80 = 0
+    weigth_81_100 = 0
+
+    while student < students do
+        weight = read(f"Please, insert the weight of the student {count}:") 
+        
+        if 50 <= weight <= 60 then
+            weigth_50_60 = weigth_50_60 + weight        
+        elif 61 <= weight <= 80 then
+            weigth_61_80 = weigth_61_80 + weight      
+        elif 81 <= weight <= 100then
+            weigth_81_100 = weigth_81_100 + weight  
+        else:
+            print("This weight is invalid!")
+            continue
+            #weight = read (f"Please, insert the weight of the student {count}:")
+        count = count + 1
+        student = student + 1
+
+    print(f"The accumulate weight in the category between 50 and 60 is {weigth_50_60}.")
+    print(f"The accumulate weight in the category between 61 and 80 is {weigth_61_80}.")
+    print(f"The accumulate weight in the category between 81 and 100 is  {weigth_81_100}.")
+
+end algorithm

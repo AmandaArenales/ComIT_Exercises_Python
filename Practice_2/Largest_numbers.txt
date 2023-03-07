@@ -1,22 +1,24 @@
 """Create an algorithm to determine the largest of a series of 
 numbers that are read from the keyboard. The user ends by entering -1."""
 
-def largest_number():
+algorithm largest_number():
+    var number: number, largest.
+    
     number = 0
-    number  = float(input("Please, insert the first number: "))
+    number  = read("Please, insert the first number: ")
     largest = number
+
     list_numbers = []
     list_numbers.append(number)
 
-    while number != -1:
-        new_number  = float(input("Please, insert a number or -1 if you don't want to enter other number: "))
+    while number != -1 do
+        new_number  = read("Please, insert a number or -1 if you don't want to enter other number: ")
         
-        if (new_number > largest):
+        if (new_number > largest) then
             largest = new_number
         
         number = new_number
         list_numbers.append(number)
 
     print (f"The largest number in {list_numbers} is {largest}")
-
-largest_number()
+end algorithm
