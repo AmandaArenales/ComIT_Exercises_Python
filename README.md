@@ -46,6 +46,10 @@ Take the quotation of the dollar today: [`canadian_us_dollar.py`](https://github
 
 1. Write a program that allows you to enter the height of 10 students, then show the average height, and how many elements are above average, how many are below average: [`height.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/height.py)
 
+1.  Write an algorithm (Vehicles.py) that, from reading and storing in vectors the commercial 
+value of 20 vehicles and the type (family (1), public transportation (2), load (3)), calculate the new
+value: [`vehicles.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/vehicles.py)
+
 1. A survey was carried out to 15 students in a University where the following information was requested: Photo ID #, Sex, Salary, Job: [`poll.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/poll.py)
 
 ## Practice_1
