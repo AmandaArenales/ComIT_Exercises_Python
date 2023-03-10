@@ -12,42 +12,85 @@ Write a program to test the operation of the Book class."""
 class Book:
     title = ""
     author = ""
+    copies_book = 0
+    lended_copies = 0
 
-    def __init__(self, title, author):
+    def __init__(self):
+        pass
+
+    def __init__(self, title, author, copies_book, lended_copies):
        self.title = title
        self.author = author
-  
-    def copies_book(self, copies_book):
-        self.copies_book = copies_book
+       self.copies_book = copies_book
+       self.lended_copies = lended_copies
+   
+    def get_title(self):
+        return self.title
     
-    def lend_copies(self, lend_copies):
-        self.lend_copies = lend_copies
+    def get_lended_copies(self):
+        return self.lended_copies
+    
+    def available_copies(self):
+        return self.copies_book - self.lended_copies
+    
+    def borrow_book(self):
+        if self.available_copies() > 0:
+            self.lended_copies +=1
+            return True
+        else:
+            return False
+        
+    def return_book(self):
+        if self.lended_copies > 0:
+            self.lended_copies -= 1
+            return True
+        else:
+            return False
+
+    def __str__(self):
+        return ("\nBook: " + self.title + " " + "\nAuthor: "+ self.author + " " +
+                "\nTotal of book's copies: " + str(self.copies_book) + " " + 
+                "\nLended copies: " + str(self.lended_copies)) 
 
 class LibrarySystem:
     books = []
-    def __init__(self):
-        book = Book()
+
+    def insert_book(self, title, author, copies_book, lended_copies):
+        book = Book(title, author, copies_book, lended_copies)
         self.books.append(book)
-
-    def avalible_copies(self, avalible_copies):
-        self.avalible_copies = self.set_copies_book - self.set_lend_copies
-     
+  
     def borrow_book(self):
-        if available_copies > 0:
-            available_copies -=1
-        else:
-            print("There are no copies avalible at this moment. You will be at the wait list.")
-
-    def get_title(self):
-        return title
+        title = input("\nPlease, insert the book's title that you want to borrow: ")
+        for b in self.books:
+            if b.get_title() == title: 
+                if b.borrow_book():
+                    print(f"You can borrow the book {title}.")
+                else: 
+                    print("There are no copies avalible at this moment. You will be at the wait list.")
     
     def return_book(self):
-        for b in books:
-            if title == b.get_title():
-                available_copies += 1
+        title = input("\nPlease, insert the book's title that you want to return: ")
+        for b in self.books:
+            if (title == b.get_title()) and (b.get_lended_copies() > 0) :
+                b.return_book()
                 print(f"The {title} was returned successfuly.")
             return False
- 
+    
+    def list_books(self):
+        for b in self.books:
+            print(b)
+        
+lib = LibrarySystem()
+lib.insert_book("Brave, Not Perfect", "Reshma Saujani", 25, 6)
+lib.insert_book("The light We Carry", "Michelle Obama", 50, 25)
+lib.insert_book("I Am Malala", " Malala Yousafzai", 40, 16)
+lib.insert_book("Becoming", "Michelle Obama", 35, 10)
+lib.insert_book("A Promised Land", "Barack Obama", 30, 15)
 
-book = Book("The light we carry", "Michele")
-print(book)
+lib.borrow_book()
+lib.borrow_book()
+
+lib.return_book()
+lib.return_book()
+
+lib.list_books()
