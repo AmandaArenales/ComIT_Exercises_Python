@@ -52,6 +52,13 @@ value: [`vehicles.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/
 
 1. A survey was carried out to 15 students in a University where the following information was requested: Photo ID #, Sex, Salary, Job: [`poll.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P3_Python/poll.py)
 
+## P4_Python
+
+1. Create a class called Book that stores the information for each of the books in a library. The class should keep the title of the book, author, number of copies of the book and number of lend copies. The class will contain the following methods: Default constructor. Constructor with parameters. 
+Setters / getters. Method Loan that increases the corresponding attribute each time a loan is made from the book. No books may be borrowed if no copies are available to lend. Returns true if the operation was successful and false otherwise.  Returns method that decrements the corresponding attribute
+when a book is returned. No books can be returned that have not been lend. Returns true if the operation was successful and false otherwise. ToString method to display data from books. This method is inherited from Object and we must modify it (override) to adapt it to the Book class. 
+Write a program to test the operation of the Book class: [`books.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P4_Python/books.py)
+
 ## Practice_1
 
 1. Perform an algorithm to read a number and report if it is greater, equal or less than zero: [`compare_with_zero.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/compare_with_zero.py)
