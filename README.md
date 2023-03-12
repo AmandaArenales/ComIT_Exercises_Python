@@ -61,6 +61,8 @@ Write a program to test the operation of the Book class: [`books.py`](https://gi
 
 1. Make a class called Person with the following conditions: Its attributes are: name, age, id, gender (M male, F female), weight and height. We do not want direct access to them. Think which access modifier is the most appropriate, also its type. If you want to add some extra attribute you can do it: [`person.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P4_Python/person.py)
 
+1. Create a class called Password with the following conditions: It has the length and password attributes. [`password.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P4_Python/password.py)
+
 ## Practice_1
 
 1. Perform an algorithm to read a number and report if it is greater, equal or less than zero: [`compare_with_zero.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/compare_with_zero.py)
