@@ -1,19 +1,10 @@
-"""Create a class called Password with the following conditions:
-It has the length and password attributes. By default, the length will be 8. 
-The constructors will be as follows: A default constructor. A constructor with the length 
-that we send as parameter. 
-
-
-Generate a random password with that length. The methods you 
-implement will be: isStrong (): return a boolean if it is strong or not, to be strong you 
-must have more than 2 uppercase, more than 1 lower case and more than 5 numbers. 
-
+"""Create a class called Password with the following conditions: It has the length and password 
+attributes. By default, the length will be 8. The constructors will be as follows: A default constructor. 
+A constructor with the length that we send as parameter. Generate a random password with that 
+length. The methods you implement will be: isStrong (): return a boolean if it is strong or not, 
+to be strong you must have more than 2 uppercase, more than 1 lower case and more than 5 numbers. 
 GeneratePassword (): Generates the password of the object with the defined length. Get method for 
-password and length. 
-
-Set method for length. 
-
-Now let’s create an executable class: Create an 
+password and length. Set method for length. Now let’s create an executable class: Create an 
 array of Passwords with the size that you indicate by keyboard. Create a loop that creates an
 object for each position in the array. It also indicates by keyboard the length of the 
 Passwords (before loop). Create another array of booleans where we store if the password of the 
