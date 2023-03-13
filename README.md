@@ -63,6 +63,10 @@ Write a program to test the operation of the Book class: [`books.py`](https://gi
 
 1. Create a class called Password with the following conditions: It has the length and password attributes. [`password.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P4_Python/password.py)
 
+## P5_Python
+
+1. Implement the class Position that represents a coordinate (x, y). Each position is defined by two integer values x and y: [`position.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P5_Python/position.py)
+
 ## Practice_1
 
 1. Perform an algorithm to read a number and report if it is greater, equal or less than zero: [`compare_with_zero.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/compare_with_zero.py)
