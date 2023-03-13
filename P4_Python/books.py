@@ -48,8 +48,9 @@ class Book:
             return False
 
     def __str__(self):
-        return ("\nBook: " + self.title + " " + "\nAuthor: "+ self.author + " " +
-                "\nTotal of book's copies: " + str(self.copies_book) + " " + 
+        return ("\nBook: " + self.title + 
+                "\nAuthor: "+ self.author + 
+                "\nTotal of book's copies: " + str(self.copies_book) + 
                 "\nLended copies: " + str(self.lended_copies)) 
 
 class LibrarySystem:
