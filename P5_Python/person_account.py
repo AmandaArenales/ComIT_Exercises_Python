@@ -26,6 +26,7 @@ class Person:
     
     def get_name(self):
         return self.name
+    
 class Account:
     account_number = 0
     balance = 0
