@@ -67,6 +67,9 @@ Write a program to test the operation of the Book class: [`books.py`](https://gi
 
 1. Implement the class Position that represents a coordinate (x, y). Each position is defined by two integer values x and y: [`position.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P5_Python/position.py)
 
+1. Create a Person class, with attributes name, surname and phone. Create an Account class, with accountNumber, balance and owner attributes. 
+Create in a class called Main, two accounts belonging to two different people and make a deposit and a withdrawal in each account. Print the values of people, and transactions: [`person_account.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P5_Python/person_account.py)
+
 ## Practice_1
 
 1. Perform an algorithm to read a number and report if it is greater, equal or less than zero: [`compare_with_zero.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/compare_with_zero.py)
