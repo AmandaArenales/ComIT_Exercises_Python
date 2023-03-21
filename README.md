@@ -84,7 +84,7 @@ Create in a class called Main, two accounts belonging to two different people an
 
 1. Given the radius of a circle, make an algorithm to calculate the value of the area: [`area_circle.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/area_circle.py)
 
-1. Write an algorithm that determines if an "N" number is divisible by another "M": : [`divisible_numbers.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/divisible_numbers.py)
+1. Write an algorithm that determines if an "N" number is divisible by another "M": [`divisible_numbers.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/divisible_numbers.py)
 
 1. Write an algorithm to translate a time expressed in days, hours, minutes and seconds to time expressed in 
 seconds: [`days_to_seconds.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/days_to_seconds.py)
