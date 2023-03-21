@@ -4,7 +4,6 @@ Print the new salary of the worker. """
 
 salary = float(input("Please, insert your salary: "))
 
-
 if salary < 1000:
     new_salary = (salary * (15/100)) + salary
     print(f"Your salary will be increased by 15% and your new salary is {new_salary}.")
