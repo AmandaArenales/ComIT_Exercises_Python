@@ -22,13 +22,11 @@ Take the quotation of the dollar today: [`canadian_us_dollar.py`](https://github
 
 1. Make a program in Python such that given as data the enrolment and 5 grades of a student; Print the enrolment, the average and the word "approved" if the student has an average greater than or equal to 6, and the word "not approved" otherwise. Data: MAT, CAL1, CAL2, CAL3, CAL4, CAL5 Where: MAT is an integer variable that represents the student's enrolment. CAL1, CAL2, CAL3, CAL4 and CAL5 are real-type variables representing the student's 5 grades: [`grades.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P1_Python/grades.py)
 
-1. Make the program in Python such that given as a worker's salary, apply a 15% increase if your salary is less than $ 1000 and 12% otherwise. Print the new salary of the worker. Fact: SUE (variable of real type that represents the salary of the worker): [`salary_increase.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P1_Python/salary_increase.py)
+1. Make the program in Python such that given as a worker's salary, apply a 15% increase if your salary is less than $ 1000 and 12% otherwise. Print the new salary of the worker: [`salary_increase.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P1_Python/salary_increase.py)
 
 1. Make a program that prints the 10 multiplication tables: [`multiplication_tables.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P1_Python/multiplication_tables.py)
 
 1. Make a calculator: [`calculator.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P1_Python/calculator.py)
-
-1. Calculate the salary increase for a group of employees of a company considering the following criteria: If the salary is less than $ 1,000.00: Increase 15% If the salary is greater than or equal to $ 1,000.00: Increase 12% The program must do The following: - Save the new salaries in the arrangement - Calculate the payroll - Print the salaries from the settlement: [``]()
 
 1. Make a program that asks for the salary of N workers (first you must ask how many workers there are) and print the one with the highest salary: [`highest_salary.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P1_Python/highest_salary.py)
 
@@ -61,7 +59,7 @@ Write a program to test the operation of the Book class: [`books.py`](https://gi
 
 1. Make a class called Person with the following conditions: Its attributes are: name, age, id, gender (M male, F female), weight and height. We do not want direct access to them. Think which access modifier is the most appropriate, also its type. If you want to add some extra attribute you can do it: [`person.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P4_Python/person.py)
 
-1. Create a class called Password with the following conditions: It has the length and password attributes. [`password.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P4_Python/password.py)
+1. Create a class called Password with the following conditions: It has the length and password attributes: [`password.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P4_Python/password.py)
 
 ## P5_Python
 
@@ -80,7 +78,7 @@ Create in a class called Main, two accounts belonging to two different people an
 
 1. Write an algorithm that determines if a number is even: [`number_even.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/number_even.py)
 
-1. Make an algorithm to read two real numbers and print the largest of them:: [`compare_two_numbers.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/compare_two_numbers.py)
+1. Make an algorithm to read two real numbers and print the largest of them: [`compare_two_numbers.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/compare_two_numbers.py)
 
 1. Given the radius of a circle, make an algorithm to calculate the value of the area: [`area_circle.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/Practice_1/area_circle.py)
 
