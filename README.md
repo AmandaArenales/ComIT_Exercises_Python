@@ -16,7 +16,7 @@ Take the quotation of the dollar today: [`canadian_us_dollar.py`](https://github
 
 1. Write a program in Python that reads two numbers on the keyboard and say which is the largest and which is the smallest: [`lagest_smallest.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P1_Python/lagest_smallest.py)
 
-1. Write a Python program that does the following: declare a variable N of type int, a variable A of type double and a variable C of type char and assign to each one a value. The following screen displays: The value of each variable. The sum of N + A. And A - N: [``]()
+1. Write a Python program that does the following: declare a variable N of type int, a variable A of type double and a variable C of type char and assign to each one a value. The following screen displays: The value of each variable. The sum of N + A. And A - N: [`declare_variable.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P1_Python/declare_variable.py)
  
 1. Write a Python program that declares an integer variable B and assign it a value. It then displays a message indicating whether the value of B is positive or negative. We will consider 0 as positive: [`positive_negative.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P1_Python/positive_negative.py)
 
@@ -69,6 +69,10 @@ Write a program to test the operation of the Book class: [`books.py`](https://gi
 
 1. Create a Person class, with attributes name, surname and phone. Create an Account class, with accountNumber, balance and owner attributes. 
 Create in a class called Main, two accounts belonging to two different people and make a deposit and a withdrawal in each account. Print the values of people, and transactions: [`person_account.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P5_Python/person_account.py)
+
+## P6_Python
+
+1. Develop a program to generate invoices to customers and purchase orders from suppliers. The system displays a menu asking if you want to make an invoice or purchase order:  [`invoce_purchase.py`](https://github.com/AmandaArenales/ComIT_Exercises_Python/blob/main/P6_Python/invoce_purchase.py)
 
 ## Practice_1
 
